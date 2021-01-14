@@ -1,0 +1,194 @@
+14 Jan 2021 15:43:46 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 15:43:46 GMT with name C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\EclipseCompiler.txt
+14 Jan 2021 15:44:03 GMT: diagnostics = javax.tools.DiagnosticCollector@15040fb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6e46c0
+fileObjects = [C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java]
+14 Jan 2021 15:44:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b4ff9a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 15:44:04 GMT: Compiler call returned
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf79c7
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 551 ColNo = 25 Msg = 'The serializable class GraphicsPanel does not declare a static final serialVersionUID field of type long'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b541ba
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 57 ColNo = 23 Msg = 'The method addShape() from the type GeometryDrawingProgram is never used locally'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e70bca
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 361 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@abb706
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 372 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c6860
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 383 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1394804
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 395 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bcbc72
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 407 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bc3984
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 419 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12a7d9b
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 431 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e6ad2
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 443 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 15:44:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1009
+14 Jan 2021 15:44:04 GMT:  Kind = WARNING
+14 Jan 2021 15:44:04 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 481 ColNo = 20 Msg = 'The value of the local variable gs is not used'
+14 Jan 2021 15:59:43 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 15:59:43 GMT with name C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\EclipseCompiler.txt
+14 Jan 2021 22:00:33 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 22:00:33 GMT with name C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\EclipseCompiler.txt
+14 Jan 2021 22:00:43 GMT: diagnostics = javax.tools.DiagnosticCollector@1bc13d4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1548cd6
+fileObjects = [C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java]
+14 Jan 2021 22:00:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17bdd14' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:00:43 GMT: Compiler call returned
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a0ac7
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 551 ColNo = 25 Msg = 'The serializable class GraphicsPanel does not declare a static final serialVersionUID field of type long'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1589796
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 57 ColNo = 23 Msg = 'The method addShape() from the type GeometryDrawingProgram is never used locally'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13aa388
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 361 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e3e8b0
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 372 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19b850d
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 383 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ec418f
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 395 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2691b9
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 407 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1df57a5
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 419 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@890a7e
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 431 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a1cc59
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 443 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:00:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78382d
+14 Jan 2021 22:00:43 GMT:  Kind = WARNING
+14 Jan 2021 22:00:43 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 481 ColNo = 20 Msg = 'The value of the local variable gs is not used'
+14 Jan 2021 22:01:42 GMT: diagnostics = javax.tools.DiagnosticCollector@29b898
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@140d6c7
+fileObjects = [C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java]
+14 Jan 2021 22:01:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17b2d9b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:01:42 GMT: Compiler call returned
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@374194
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 551 ColNo = 25 Msg = 'The serializable class GraphicsPanel does not declare a static final serialVersionUID field of type long'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d61c0
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 57 ColNo = 23 Msg = 'The method addShape() from the type GeometryDrawingProgram is never used locally'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13cda4a
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 361 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@127ec52
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 372 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1142e03
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 383 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa0580
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 395 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1536fdf
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 407 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e8509b
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 419 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e41b13
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 431 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@196dc2a
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 443 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:01:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1136650
+14 Jan 2021 22:01:42 GMT:  Kind = WARNING
+14 Jan 2021 22:01:42 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 481 ColNo = 20 Msg = 'The value of the local variable gs is not used'
+14 Jan 2021 22:02:16 GMT: diagnostics = javax.tools.DiagnosticCollector@4557ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13eac4a
+fileObjects = [C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java]
+14 Jan 2021 22:02:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b04c8b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:02:16 GMT: Compiler call returned
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1827a23
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 551 ColNo = 25 Msg = 'The serializable class GraphicsPanel does not declare a static final serialVersionUID field of type long'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ed0340
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 114 ColNo = 23 Msg = 'The method testAddShape() from the type GeometryDrawingProgram is never used locally'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@621a6a
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 361 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f9e840
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 372 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a2c27e
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 383 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e2c49
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 395 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f9c26c
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 407 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56881b
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 419 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122101d
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 431 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b73bd4
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 443 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:02:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d6bcc
+14 Jan 2021 22:02:16 GMT:  Kind = WARNING
+14 Jan 2021 22:02:16 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 481 ColNo = 20 Msg = 'The value of the local variable gs is not used'
+14 Jan 2021 22:03:06 GMT: diagnostics = javax.tools.DiagnosticCollector@a06b8e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7b39a7
+fileObjects = [C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java]
+14 Jan 2021 22:03:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@77c20f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+14 Jan 2021 22:03:06 GMT: Compiler call returned
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@db0954
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 551 ColNo = 25 Msg = 'The serializable class GraphicsPanel does not declare a static final serialVersionUID field of type long'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e8eba7
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 114 ColNo = 23 Msg = 'The method testAddShape() from the type GeometryDrawingProgram is never used locally'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61f1cc
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 361 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d055e9
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 372 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f6cce
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 383 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6808b1
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 395 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14e64a1
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 407 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bd0d3c
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 419 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f3219
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 431 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9098a5
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 443 ColNo = 12 Msg = 'The value of the local variable shapeName is not used'
+14 Jan 2021 22:03:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d382ba
+14 Jan 2021 22:03:06 GMT:  Kind = WARNING
+14 Jan 2021 22:03:06 GMT: Name = C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\GeometryDrawingProgram.java LineNo = 481 ColNo = 20 Msg = 'The value of the local variable gs is not used'
+14 Jan 2021 22:03:41 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 22:03:41 GMT with name C:\Users\dylan\Desktop\Grade 12\ICS4U Program\Summative\EclipseCompiler.txt

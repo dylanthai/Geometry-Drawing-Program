@@ -1,0 +1,4 @@
+public interface ShapeWithWidthAndHeight {
+  public void setWidth(int newWidth);
+  public void setHeight(int newHeight);
+}
