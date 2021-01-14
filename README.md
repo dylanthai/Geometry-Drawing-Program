@@ -1,7 +1,7 @@
 # Geometry-Drawing-Program
 
 /** Geometry Drawing Program
-  * Program where user can create their own program with basic shapes
+  * Program where user can create their own image with basic shapes
   * @version Date: 4/23/2020
   * @Author Dylan Thai
   */
